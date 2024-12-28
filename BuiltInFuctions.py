@@ -1,0 +1,11 @@
+Num=[50,10,40,20,30]
+print("List is :")
+print(Num)
+print("Length of List is:",len(Num))
+print("Maximum Number of list is :",max(Num))
+print("Minimum Number of list is :",min(Num))
+print("Sum of list is :",sum(Num))
+print("Sorted elements in list is :",sorted(Num))
+print("list:",list(Num))
+print(any(Num))
+print(all(Num))

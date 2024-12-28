@@ -1,0 +1,34 @@
+Num=[10,20,30,40,50,60,70,80,90,100]
+print("List before Reasigning of elements------------------------")
+print(Num)
+print("List After Reassign of elements---------------------------")
+Num[0]=11
+print("-----------------------------")
+print(Num)
+Num[1]=22
+print("-----------------------------")
+print(Num)
+Num[2]=33
+print("-----------------------------")
+print(Num)
+Num[3]=44
+print("-----------------------------")
+print(Num)
+Num[4]=55
+print("-----------------------------")
+print(Num)
+Num[5]=66
+print("-----------------------------")
+print(Num)
+Num[6]=77
+print("-----------------------------")
+print(Num)
+Num[7]=88
+print("-----------------------------")
+print(Num)
+Num[8]=99
+print("-----------------------------")
+print(Num)
+Num[9]=101
+print("-----------------------------")
+print(Num)
