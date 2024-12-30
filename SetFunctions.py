@@ -1,0 +1,18 @@
+a={10,20,'Student','Raj','40'}
+print(a)
+print(id(a))
+print()
+b={10,20,'Students','Raj',50,30}
+print(b)
+print()
+print(id(b))
+print("Adding a element")
+a.add('Python')
+print(a)
+print(id(a))
+print()
+print("Multiple element adding")
+a.update([101,102,103])
+print(a)
+print(id(a))
+print()

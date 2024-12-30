@@ -1,0 +1,17 @@
+Set={'Blue','Black','Green','Yellow','Red','Gray'}
+print("Theoriginal set is:-------")
+print(Set)
+Set.add('Orange')
+print("After addding a element to set-------")
+print(Set)
+Set.add('Navy Blue')
+Set.add('Pink')
+Set.add('Violet')
+print("After many elements to a set------")
+print(Set)
+print("Updating of a set-----------------------------------------")
+Set1={'Lavender','Rosegold','Peach'}
+print(Set1)
+Set.update(Set1)
+print("After updating the set--------")
+print(Set)

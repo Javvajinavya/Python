@@ -1,0 +1,12 @@
+Tuple=((10,20,30),(30,40,50),(70,90,80))
+print("the original tuple is---")
+print(Tuple)
+print("Accessing tuples inside of a tuple-------")
+print(Tuple[0])
+print(Tuple[1])
+print(Tuple[2])
+print("Acessing elements in a nested tuple-----")
+print(Tuple[0][0])
+print(Tuple[1][1])
+print(Tuple[2][2])
+
